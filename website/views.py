@@ -19,7 +19,7 @@ def Thankyou(request):
 			 	message_name + ' ' +  message_email,
 			 	message,
 			 	message_email,
-			 	['lxdavidxl639@gmail.com'],
+			 	['infoebooksconnection@gmail.com'],
 			 	)
 
 
